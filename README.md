@@ -9,8 +9,7 @@ caracteres por el carácter situado a distancia k de éste. Por ejemplo, si la c
 cifrar es ABCDE y k es 1, la cadena cifrada será BCDEF. Es decir, A->B, B->C, C->D, D->E, E->F.
 
 El código Morse es un sistema de comunicación telegráfica que a través de impulsos
-de diferentes longitudes nos permite transmitir un mensaje. A continuación, alfabeto
-y dígitos con su respectivo código morse.
+de diferentes longitudes nos permite transmitir un mensaje.
 
 Se les ha solicitado implementar un buscador encriptador-morse, que busque en una
 matriz formada por palabras en cada una de sus celdas, las palabras que conforman
